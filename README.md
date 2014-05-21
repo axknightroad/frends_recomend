@@ -1,4 +1,7 @@
-frends_recomend
+Social Circle-Based Algorithm for Friend Recommendation in Online Social Networks
 ===============
 
-毕设课题
+Algorithm used python and test data from facebook
+
+just for graduation project
+
